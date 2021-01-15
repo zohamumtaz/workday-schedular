@@ -1,6 +1,5 @@
 # workday-schedular
 
-# Workday Schedular
 ![Screenshot1](./images/screenshot1.png)
 
 # Deployed link
